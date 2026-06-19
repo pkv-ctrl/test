@@ -1,1 +1,1 @@
-Updated README.md contents from a managed device
+Updating README.md from a BYOD device which doesn't have access directly to github.com
