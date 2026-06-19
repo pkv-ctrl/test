@@ -1,1 +1,1 @@
-README updated from MANAGED device
+README.md updated from BYOD which doesn't have access to github.com
