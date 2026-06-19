@@ -1,1 +1,3 @@
-README.md updated from BYOD which doesn't have access to github.com
+# Test Repository
+
+This file was updated via Gemini Enterprise Custom MCP.
