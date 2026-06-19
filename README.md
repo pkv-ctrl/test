@@ -1,3 +1,3 @@
-# Test Repository
+# GitHub MCP Test
 
-This file was updated via Gemini Enterprise Custom MCP.
+This repository is used for testing the GitHub MCP integration.
